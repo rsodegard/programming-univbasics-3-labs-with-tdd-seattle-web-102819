@@ -1,5 +1,5 @@
 # Add your variables here
 
-first_number = "Hello"
+first_number = 0 
 
 
